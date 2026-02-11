@@ -1,0 +1,4 @@
+Being a CS student and maintaining your social life can sometimes feel daunting. To symbolize this, we implemented a friend to follow you around. Like friendships in real-life, he needs your attention to maintain friends. If you go too long without acknowledging him, he will disappear from your life. He says common phrases that you might hear your friends say to you in the computer science department here. Picking up social cues is important in maintaining friendships, he gives you a hint of how he's feeling based on his animations. When he's close to dying he'll look physically injured. To "interact" with him, use your trigger finger to "shoot" him. When he is not waiting for your response to one of his prompts, his mood will slowly increase. You can make it increase faster by "shooting" him more. 
+
+camrynihrke.github.io
+
